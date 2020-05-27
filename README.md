@@ -1,4 +1,4 @@
-# brewarytut
+# Just Another App 
 
 A new Flutter application.
 
